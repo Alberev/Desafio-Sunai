@@ -1,0 +1,21 @@
+Archivo Data_Plantas_Python_1 
+-Libro Planta1-
+Valor Máximo y Minimo Total del Active Energy:
+max: 76978296 , ActiveEnergy min: 47407500
+Suma Total del ActivePower por Día:
+ActivePower sum: 3664916
+
+Archivo Data_Plantas_Python_2 
+-Libro Sheet1-
+Valor Máximo y Minimo Total del Active Energy:
+max: 112923304, min: 100358904
+Suma Total del ActivePower por Día:
+ActivePower sum: 2520597
+
+
+Ruta de la Gráfica de Archivo Data_Plantas_Python_1
+https://colab.research.google.com/drive/1JciHJlyUtx3N3CW9FS2uFC1ZwYet6Qxt?usp=sharing
+
+
+Ruta de la Gráfica de Archivo Data_Plantas_Python_2
+https://colab.research.google.com/drive/1JciHJlyUtx3N3CW9FS2uFC1ZwYet6Qxt?usp=sharing
